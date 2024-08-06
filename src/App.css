@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-main {
+  padding: 20px;
+}
+
+.App-cta {
+  background-color: #282c34;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.App-footer {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
